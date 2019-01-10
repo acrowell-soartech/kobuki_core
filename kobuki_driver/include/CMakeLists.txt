@@ -4,7 +4,7 @@
 
 install(
   DIRECTORY
-    ${PROJECT_NAME}/
+    ${PROJECT_SOURCE_DIR}/include/
   DESTINATION
     include
 )
